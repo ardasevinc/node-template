@@ -29,6 +29,6 @@
     "pnpm": ">=8"
   },
   "dependencies": {
-    "rimraf": "^5.0.1",
+    "rimraf": "^5.0.1"
   }
 }
