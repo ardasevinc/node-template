@@ -14,5 +14,4 @@ Feel free to use it and open issues/PRs!
 
 ## Building
 
-- [ ] Live reload with chokidar
 - [ ] Logging with winston
