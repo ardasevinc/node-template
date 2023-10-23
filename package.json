@@ -9,7 +9,13 @@
     "build": "pnpm run prebuild && tsc",
     "start": "pnpm run build && NODE_ENV=production node ./dist/main.js"
   },
-  "keywords": ["node", "node template", "node starter", "typescript", "swc"],
+  "keywords": [
+    "node",
+    "node template",
+    "node starter",
+    "typescript",
+    "swc"
+  ],
   "author": "Arda Sevinc <ardasevinc.technical@gmail.com>",
   "license": "MIT",
   "devDependencies": {
@@ -19,6 +25,7 @@
     "@typescript-eslint/parser": "^6.9.0",
     "eslint": "^8.52.0",
     "eslint-config-prettier": "^9.0.0",
+    "nodemon": "^3.0.1",
     "prettier": "^3.0.3",
     "ts-node": "^10.9.1",
     "tsconfig-paths": "^4.2.0",
